@@ -2,9 +2,9 @@
 <!-- This is a template for your Readme. Please keep the headings but remove the instructional text, and replace the video with your own screen recording. -->
 ## My Solution In Action
 <!-- Add your screen recording here. You can drag the video from your local folder to this page to add it automatically.  -->
+https://github.com/skillstartup/t1-cuperre/assets/140294662/d8b07727-c2fd-409b-a33c-3a6465785155
 
 
-https://github.com/cincodemayo/coding-challenge-cuperre/assets/67213501/51556a1c-bcb0-47bd-bb42-a9165c5586e1
 
 
 
