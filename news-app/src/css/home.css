@@ -1,0 +1,48 @@
+.news-container {
+  margin: 1%;
+  padding: 1%;
+}
+
+.search > * {
+  margin: 0 5px
+}
+
+.news-block {
+  width: 60%;
+  padding: 1%;
+  margin: 5px auto;
+  border-style: solid;
+  border-color: #282c34;
+  display: flex;
+}
+
+.split-left {
+  width: 30%;
+}
+
+.split-right {
+  width: 70%;
+}
+
+.news-img {
+  width: 100%;
+}
+
+.news-img:hover {
+  opacity: 0.8;
+}
+
+.border-line {
+  height: 100%;
+  border-style: solid;
+  border-color: #282c34;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+}
