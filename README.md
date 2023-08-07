@@ -2,11 +2,7 @@
 <!-- This is a template for your Readme. Please keep the headings but remove the instructional text, and replace the video with your own screen recording. -->
 ## My Solution In Action
 <!-- Add your screen recording here. You can drag the video from your local folder to this page to add it automatically.  -->
-https://github.com/skillstartup/t1-cuperre/assets/140294662/d8b07727-c2fd-409b-a33c-3a6465785155
-
-
-
-
+https://github.com/skillstartup/t1-cuperre/assets/140294662/b273e730-4eeb-4639-8c4f-211e23acf247
 
 ## What I Built
 This is a news web application that allows users to view news and search for news articles relating to a topic they are interested in. Additionally, every thirty seconds the page is updated to search for articles relating to the topic entered by the user to ensure they view the latest news.
